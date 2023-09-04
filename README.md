@@ -8,7 +8,7 @@ We make this game for playing together on freetime.
 Install the project
 
 ## Where users can get help with your project
-My Email(mailto:team14457@gmail.com)
+My [Email](mailto:team14457@gmail.com)
 
 ## Who maintains and contributes to the project
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
